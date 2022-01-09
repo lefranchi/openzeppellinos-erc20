@@ -1,0 +1,26 @@
+{
+  "name": "openzeppellinos-erc20",
+  "version": "1.0.0",
+  "description": "OpenZeppelin Playground for study purposes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lefranchi/openzeppellinos-erc20.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lefranchi/openzeppellinos-erc20/issues"
+  },
+  "homepage": "https://github.com/lefranchi/openzeppellinos-erc20#readme",
+  "devDependencies": {
+    "@openzeppelin/contracts": "^4.4.1"
+  },
+  "dependencies": {
+    "truffle": "^5.4.27"
+  }
+}
