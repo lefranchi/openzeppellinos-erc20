@@ -1,2 +1,2 @@
-# openzeppellinos-playground
+# openzeppellinos-erc20
 OpenZeppelin Playground for study purposes.
