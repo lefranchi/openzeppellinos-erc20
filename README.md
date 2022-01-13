@@ -7,4 +7,4 @@ OpenZeppelin Playground for Ethereum Blockchain Smart Contract's study purposes.
 [Build Smart Contracts with OpenZeppelin and Truffle](https://medium.com/@ethdapp/build-smart-contracts-with-openzeppelin-and-truffle-67b2851d3b07)
 
 [Creating Ethereum token on ERC20 standards](https://www.devprovider.com/creating-ethereum-token/)
-=======
+
